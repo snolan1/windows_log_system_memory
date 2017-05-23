@@ -1,0 +1,172 @@
+****[23 May 2017 - 11:05:32]****
+****Starting****
+
+****[23 May 2017 - 11:05:32]****
+Total Physical Memory:     16,327 MB
+Available Physical Memory: 4,306 MB
+Virtual Memory: Max Size:  32,652 MB
+Virtual Memory: Available: 19,956 MB
+Virtual Memory: In Use:    12,696 MB
+
+
+****[23 May 2017 - 11:05:48]****
+Total Physical Memory:     16,327 MB
+Available Physical Memory: 4,307 MB
+Virtual Memory: Max Size:  32,652 MB
+Virtual Memory: Available: 19,958 MB
+Virtual Memory: In Use:    12,694 MB
+
+
+****[23 May 2017 - 11:06:05]****
+Total Physical Memory:     16,327 MB
+Available Physical Memory: 4,306 MB
+Virtual Memory: Max Size:  32,652 MB
+Virtual Memory: Available: 19,957 MB
+Virtual Memory: In Use:    12,695 MB
+
+
+****[23 May 2017 - 11:06:22]****
+Total Physical Memory:     16,327 MB
+Available Physical Memory: 4,306 MB
+Virtual Memory: Max Size:  32,652 MB
+Virtual Memory: Available: 19,957 MB
+Virtual Memory: In Use:    12,695 MB
+
+
+****[23 May 2017 - 11:06:39]****
+Total Physical Memory:     16,327 MB
+Available Physical Memory: 4,308 MB
+Virtual Memory: Max Size:  32,652 MB
+Virtual Memory: Available: 19,957 MB
+Virtual Memory: In Use:    12,695 MB
+
+
+****[23 May 2017 - 11:06:55]****
+Total Physical Memory:     16,327 MB
+Available Physical Memory: 4,310 MB
+Virtual Memory: Max Size:  32,652 MB
+Virtual Memory: Available: 19,961 MB
+Virtual Memory: In Use:    12,691 MB
+
+
+****[23 May 2017 - 11:07:12]****
+Total Physical Memory:     16,327 MB
+Available Physical Memory: 4,312 MB
+Virtual Memory: Max Size:  32,652 MB
+Virtual Memory: Available: 19,963 MB
+Virtual Memory: In Use:    12,689 MB
+
+
+****[23 May 2017 - 11:07:29]****
+Total Physical Memory:     16,327 MB
+Available Physical Memory: 4,302 MB
+Virtual Memory: Max Size:  32,652 MB
+Virtual Memory: Available: 19,953 MB
+Virtual Memory: In Use:    12,699 MB
+
+
+****[23 May 2017 - 11:07:46]****
+Total Physical Memory:     16,327 MB
+Available Physical Memory: 4,309 MB
+Virtual Memory: Max Size:  32,652 MB
+Virtual Memory: Available: 19,967 MB
+Virtual Memory: In Use:    12,685 MB
+
+
+****[23 May 2017 - 11:08:02]****
+Total Physical Memory:     16,327 MB
+Available Physical Memory: 4,323 MB
+Virtual Memory: Max Size:  32,652 MB
+Virtual Memory: Available: 19,980 MB
+Virtual Memory: In Use:    12,672 MB
+
+
+****[23 May 2017 - 11:08:19]****
+Total Physical Memory:     16,327 MB
+Available Physical Memory: 4,322 MB
+Virtual Memory: Max Size:  32,652 MB
+Virtual Memory: Available: 19,982 MB
+Virtual Memory: In Use:    12,670 MB
+
+
+****[23 May 2017 - 11:08:36]****
+Total Physical Memory:     16,327 MB
+Available Physical Memory: 4,322 MB
+Virtual Memory: Max Size:  32,652 MB
+Virtual Memory: Available: 19,981 MB
+Virtual Memory: In Use:    12,671 MB
+
+
+****[23 May 2017 - 11:08:53]****
+Total Physical Memory:     16,327 MB
+Available Physical Memory: 4,317 MB
+Virtual Memory: Max Size:  32,652 MB
+Virtual Memory: Available: 19,977 MB
+Virtual Memory: In Use:    12,675 MB
+
+
+****[23 May 2017 - 11:09:10]****
+Total Physical Memory:     16,327 MB
+Available Physical Memory: 4,322 MB
+Virtual Memory: Max Size:  32,652 MB
+Virtual Memory: Available: 19,982 MB
+Virtual Memory: In Use:    12,670 MB
+
+
+****[23 May 2017 - 11:09:27]****
+Total Physical Memory:     16,327 MB
+Available Physical Memory: 4,322 MB
+Virtual Memory: Max Size:  32,652 MB
+Virtual Memory: Available: 19,983 MB
+Virtual Memory: In Use:    12,669 MB
+
+
+****[23 May 2017 - 11:09:44]****
+Total Physical Memory:     16,327 MB
+Available Physical Memory: 4,314 MB
+Virtual Memory: Max Size:  32,652 MB
+Virtual Memory: Available: 19,976 MB
+Virtual Memory: In Use:    12,676 MB
+
+
+****[23 May 2017 - 11:10:00]****
+Total Physical Memory:     16,327 MB
+Available Physical Memory: 4,304 MB
+Virtual Memory: Max Size:  32,652 MB
+Virtual Memory: Available: 19,964 MB
+Virtual Memory: In Use:    12,688 MB
+
+
+****[23 May 2017 - 11:10:17]****
+Total Physical Memory:     16,327 MB
+Available Physical Memory: 4,299 MB
+Virtual Memory: Max Size:  32,652 MB
+Virtual Memory: Available: 19,959 MB
+Virtual Memory: In Use:    12,693 MB
+
+
+****[23 May 2017 - 11:10:34]****
+Total Physical Memory:     16,327 MB
+Available Physical Memory: 3,846 MB
+Virtual Memory: Max Size:  32,652 MB
+Virtual Memory: Available: 19,357 MB
+Virtual Memory: In Use:    13,295 MB
+
+
+****[23 May 2017 - 11:10:53]****
+Total Physical Memory:     16,327 MB
+Available Physical Memory: 3,541 MB
+Virtual Memory: Max Size:  32,652 MB
+Virtual Memory: Available: 18,984 MB
+Virtual Memory: In Use:    13,668 MB
+
+
+****[23 May 2017 - 11:11:10]****
+Total Physical Memory:     16,327 MB
+Available Physical Memory: 4,282 MB
+Virtual Memory: Max Size:  32,652 MB
+Virtual Memory: Available: 19,971 MB
+Virtual Memory: In Use:    12,681 MB
+
+
+****[23 May 2017 - 11:11:27]****
