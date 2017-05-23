@@ -10,5 +10,5 @@ python windows_log_system_memory_use.py
    
 No external dependencies other than python (2 or 3)    
 
-### Tested on: Windows Server 2012 R2, Windows 7, Windows 10  
+<b>Tested on: Windows Server 2012 R2, Windows 7, Windows 10</b>    
 
