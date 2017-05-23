@@ -1,3 +1,8 @@
+** This is an example of the output this script generates**
+
+Note that script and output are for Windows platform, and use DOS line
+endings... (in case things appear excessively whitespaced on your machine)
+
 ****[23 May 2017 - 11:05:32]****
 ****Starting****
 
