@@ -18,12 +18,14 @@ No external dependencies other than python (2 or 3)
 ```
 ****[23 May 2017 - 10:51:22]****
 starting
+
 ****[23 May 2017 - 10:51:22]****
 Total Physical Memory:     16,327 MB
 Available Physical Memory: 4,404 MB
 Virtual Memory: Max Size:  32,652 MB
 Virtual Memory: Available: 20,045 MB
 Virtual Memory: In Use:    12,607 MB
+
 ****[23 May 2017 - 10:51:40]****
 Total Physical Memory:     16,327 MB
 Available Physical Memory: 4,330 MB
@@ -33,6 +35,7 @@ Virtual Memory: Available:
 19,974 MB
 Virtual Memory: In Use:
 12,678 MB
+
 ...
 ...
 ...
